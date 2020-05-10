@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "poskota-app",
+  "private_key_id": "731577502fde35446c9c7708f1fa82ceb04f51a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCt3z5xfjLadzQg\nT78CZSBMljdPzqaDlTfN+QEhnS9UHaD/6pYIUcsSju6Z3oWKd2NDmU+RaPDqM+vy\nfXP7JD/KYolBNVsqcViDzBc6NLPGqAmQ9HaJJnjgzi1t+o27PyPV39U0F2dcfu7s\n/BuN2TYmbvy2vXXuZLGO5U1iTENtlFlJvKIZQLcbXvKsbMPjAZd5MK2k8EU/hkwk\n0nOYuiOLlrC+Y7VT4mYhO/1xwhkeWcAJXoLBmn9pqMingFhqgLNxM11gOLnTMuJ3\nEvcNJjKEzhb3UoU2YfF7E3MvgU3kw8V3ns860jQqHHmOB2kB6ac8bj/AUIARkZer\nF/Ka83r1AgMBAAECggEADLglVwOaoEEyor96s2fm8DtX8gJly3/tvGdgFg+r3+0n\n8zi7v4GOR74FheORpNK9g/sx5ysEXrmsI8naI2/gK8PAEzFeSTFP/po+Q7+JvDlc\nM8qyZi+Wjal/iMlYt28zxahRbjVdFhbiDxuVP2/5pl+dpJehCi67D39GRS/biec+\noeO1hR/9+ZLjCso0cIoMVPWAVJxN507pFeBZdosxaQ6TaTogrl8oDbTyf2Kd1sBx\nYW1PpuoPJpY4r/7w0ReV2xSOtkBkr6L68NN1AQfTY7Fbu2AHyFeOs9BIWDdgE8EE\ntt0sUiD8mQW7c0LgR3snNbDihhIg7ZR4QGLoHMpS+QKBgQDf2IwUMNgjL/3hEJZ5\nylp3mxu6SQRdqgkHyRwq6KtBaaP3xrdpomD5l+qzeAaLQC1yeT9FBstZ/6ppRXTu\njEHG1ajQ27c1X5rSonNIEsZ3BiafmKNM6qR4U3q/AWtZAGUWesItiqhMcqMOypIB\nUUovDyxZvVc/mnlgsoKnpPf87QKBgQDG2QQNcVvME5g/qvZGiEfRMxX9YOFYNMiM\nrtQTKaKtGILKR1pjnYssR7E0z/uy9ZYJMdbABTvVN4NpITaipB1d6GXc2caafVtY\nUHv4RDfZUO7PIROgBuSSMQkHqrCiBqHplY6zo+SA1T0vtNmyRFLOs7vEL9G5eqM6\n8Ya6kGW9KQKBgHfG682yBTVu7K6NrbclrBrsCH45q/hij8p2tnfPYDP0TyS6VFJV\n7QYhYBkAVKAWizsB3fUVmaJix9DktZkfu+KlWVvI9dO9gJ7NBlq+kSwHQouLpXX2\n6GLqaHfkToilSXIp5dVwqHWfsdisVEwYL1XXDKhIRHNoOSKg4oDKKVhRAoGBAMB2\nwtZkFy7i9GUDi9XfCGwzHyCdSd+/TzHj8f8OOJeD9uvkvldW4KMeTSXJ/VxNGkiS\nBcLcDfqk/bue2yv23znKu/VUkEdt+CD13dgB53CfRlYTNNSad1gMwCm8i7R36PWW\nvYWgp4YPX2ayjFdgjCnni2Ery7nUOvPNXNNs+hxpAoGBAMciEmfNVTulVGP2G4S7\nU0zZb0N4z71KxEEsw39KWJ5MS4wm07VbavAelH3U/HguwsZxUeTnPS9D7LU32sR3\nDQTLUoOeowjyRlNB5+8/ug2flfal7zK6Pmzba7xNPM9ZK4RgOFsAKKp7NS8cE6wF\noUPf0IKetRb5MgpnjNwEOxek\n-----END PRIVATE KEY-----\n",
+  "client_email": "poskotadev@poskota-app.iam.gserviceaccount.com",
+  "client_id": "109857749676697744262",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/poskotadev%40poskota-app.iam.gserviceaccount.com"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/broadcast",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Broadcast\\Providers\\BroadcastServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Broadcast\\": ""
+        }
+    }
+}

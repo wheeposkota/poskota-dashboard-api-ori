@@ -1,0 +1,18 @@
+#!/bin/sh
+cd /var/www/html
+chmod 777 -R storage
+pwd
+php artisan cache:clear
+php artisan migrate
+php artisan vendor:publish --tag=lfm_public
+php artisan tinker
+php artisan view:clear
+set -e
+service nginx restart
+service cron restart
+(crontab -l 2>/dev/null; echo "* * * * * php /var/www/html/artisan schedule:run >> /dev/null 2>&1") | crontab -
+(crontab -l 2>/dev/null; echo "* * * * * chmod -R 777 /var/www/html/storage/framework/sessions/* >> /dev/null 2>&1") | crontab -
+#sh /root/start-backend.sh
+/usr/bin/supervisord &
+php-fpm
+#php -S 0.0.0.0:80 -t . index.php
